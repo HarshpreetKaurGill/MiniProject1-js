@@ -1,0 +1,44 @@
+[
+  {
+      "id": 1,
+      "name": "Ferrari 488",
+      "model": "488 GTB",
+      "price": "$280,000",
+      "image": "public/images/car2.jpg"
+  },
+  {
+      "id": 2,
+      "name": "Lamborghini Huracan",
+      "model": "Huracan EVO",
+      "price": "$261,274",
+      "image": "public/images/car1.jpg"
+  },
+  {
+      "id": 3,
+      "name": "McLaren 720S",
+      "model": "720S Spider",
+      "price": "$315,000",
+      "image": "images/car3.jpg"
+  },
+  {
+      "id": 4,
+      "name": "Porsche 911",
+      "model": "911 Turbo S",
+      "price": "$206,000",
+      "image": "images/car1.jpg"
+  },
+  {
+      "id": 5,
+      "name": "Bugatti Chiron",
+      "model": "Chiron Super Sport",
+      "price": "$3,000,000",
+      "image": "images/car2.jpg"
+  },
+  {
+      "id": 6,
+      "name": "Aston Martin DBS",
+      "model": "DBS Superleggera",
+      "price": "$316,000",
+      "image": "images/car3.jpg"
+  }
+]
